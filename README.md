@@ -3,9 +3,9 @@
 Este projeto foi desenvolvido como atividade prática da aula de Engenharia de Dados. O objetivo é realizar um processo de ETL (Extract, Transform, Load) para extrair dados de universidades de diferentes países e armazená-los em um banco de dados SQLite.
 
 ## 👥 Integrantes do Grupo
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
+- Dayanne Moraes
+- Douglas Araújo
+- Lucas Mateus
 
 ## 🛠️ Estrutura do Projeto
 O projeto segue uma arquitetura modular para facilitar a manutenção e escalabilidade:
