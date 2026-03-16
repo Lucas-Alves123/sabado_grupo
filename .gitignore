@@ -1,0 +1,4 @@
+.venv/
+chinook.db
+universities.db
+__pycache__/
